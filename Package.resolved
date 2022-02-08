@@ -1,0 +1,34 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "DeckOfPlayingCards",
+        "repositoryURL": "https://github.com/duhnnie/Swift-DeckOfPlayingCards",
+        "state": {
+          "branch": null,
+          "revision": "2e038b550e9e7cf87e1770d02b2c89724a36db3f",
+          "version": "1.0.0"
+        }
+      },
+      {
+        "package": "FisherYates",
+        "repositoryURL": "https://github.com/duhnnie/Swift-FisherYates",
+        "state": {
+          "branch": null,
+          "revision": "fae816e66df2bb067a3ff264f9f35a0db1f24ae5",
+          "version": "1.0.0"
+        }
+      },
+      {
+        "package": "PlayingCard",
+        "repositoryURL": "https://github.com/duhnnie/Swift-PlayingCard",
+        "state": {
+          "branch": null,
+          "revision": "e6be7a2c979659b97cc79f73e0050ff2c68bf688",
+          "version": "1.0.3"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
